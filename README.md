@@ -13,8 +13,7 @@
 👉 **Try the application:**
 https://flight-satisfaction-predictorflight-satisfaction-predictor-29a.streamlit.app/
 
-👉 **GitHub Repository:**
-https://github.com/MohamedEmad1020/Flight-Satisfaction-Predictor
+
 
 ---
 
